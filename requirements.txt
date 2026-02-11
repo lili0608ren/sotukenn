@@ -1,0 +1,8 @@
+streamlit
+pulp
+openpyxl
+googlemaps
+pandas
+numpy
+requests
+ortools
